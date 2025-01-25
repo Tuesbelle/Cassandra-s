@@ -3,7 +3,7 @@
  
 This is a very important website I am creating
 
-## A little bit of Markdown
+A little bit of Markdown
 
 `Code Piece`
 
