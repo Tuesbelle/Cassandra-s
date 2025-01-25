@@ -1,5 +1,6 @@
 # Cassandra-sCode
-This is ver important website Iam creating
+# Very-important-website
+#This is a very important website I am creating
 ## A little bit of Markdown
 `Code Piece`
 
