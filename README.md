@@ -122,19 +122,23 @@
                 <li><storng>Preparation is Key:</storng>Please come prepared with your class materials,computer ready,and
                 and any questions you have writeen down beforehand.. This will help us maximize out time together and 
                 ensure everyone gets their questions answered</li>
-                <li>Respect each other's ideas and contributions.</li>
-                <li>Come prepared with your study materials and questions.</li>
-                <li>Maintain a positive and collaborative attitude.</li>
+                <li><storng>Respect Communication:</storng>To avoid interrupting someone's train of thought, 
+                please raise your hand(virtually or send a message depending on the platform we use before speaking. 
+                Let's be mindful of others and allow everyone a chance to get the help they need.</li>
+                <li><storng>Mute When Not Speaking:</storng> Please keep your microphone muted unless you are actively speaking. 
+                This will help minimize background noise and distractions, allowing everyone to focus.</li>
+                <li><storng>Teamwork Makes the Dream Work:</storng>Remember,we are teammates on theis jorurney!
+                We're here to support and encourage one another</li>
             </ul>
             <p>We look forward to learning and growing together. Let's make the most out of our study sessions!</p>
-            <button onclick="alert('Thank you for joining our study group!')">Join the Group</button>
+            <button href="#https://codexlearners.slack.com/archives/C08BQ86A7B2"onclick-"alert('thank you for joining our study group) onclick="alert('Thank you for joining our study group!')">Join the Group</button>
         </div>
         <aside class="sidebar">
             <h3>Additional Resources</h3>
             <p>Check out these links for more study tips and materials:</p>
-            <a href="https://example.com/resource1">Resource 1</a><br>
-            <a href="https://example.com/resource2">Resource 2</a><br>
-            <a href="https://example.com/resource3">Resource 3</a>
+            <a href="https://www.w3schools.com/html/html_basic.asp">HTML Basic</a><br>
+            <a href="https://www.w3schools.com/html/default.asp">HTML Tutorial</a><br>
+            <a href="https://profile.w3schools.com/login">Learn Coding</a>
         </aside>
     </div>
     <footer>
